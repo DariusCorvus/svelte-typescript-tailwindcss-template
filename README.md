@@ -1,12 +1,12 @@
-# svelte tailwindcss app
+# svelte typescript tailwindcss app
 
-This is a project template for [Svelte](https://svelte.dev) & [TailwindCSS](https://tailwindcss.com/) apps. It lives at https://github.com/DariusCorvus/svelte-tailwindcss-template.
+This is a project template for [Svelte](https://svelte.dev), [TypeScript](https://www.typescriptlang.org) & [TailwindCSS](https://tailwindcss.com/) apps. It lives at https://github.com/DariusCorvus/svelte-typescript-tailwindcss-template.
 
 To create a new project based on this template using [degit](https://github.com/Rich-Harris/degit):
 
 ```bash
-npx degit dariuscorvus/svelte-tailwindcss-template svelte-tailwindcss-app
-cd svelte-tailwindcss-app
+npx degit dariuscorvus/svelte-typescript-tailwindcss-template svelte-typescript-tailwindcss-app
+cd svelte-typescript-tailwindcss-app
 ```
 
 *Note that you will need to have [Node.js](https://nodejs.org) installed.*
@@ -17,7 +17,7 @@ cd svelte-tailwindcss-app
 Install the dependencies...
 
 ```bash
-cd svelte-tailwindcss-app
+cd svelte-typescript-tailwindcss-app
 npm install
 ```
 
